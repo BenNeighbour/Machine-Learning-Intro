@@ -1,0 +1,7 @@
+name: my_ml_env
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - matplotlib
